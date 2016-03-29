@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":true,"name":"フィールド","order":1,"parentId":0,"scrollX":6557,"scrollY":6489},
+{"id":2,"expanded":false,"name":"まほりと","order":5,"parentId":3,"scrollX":946,"scrollY":1493},
+{"id":3,"expanded":true,"name":"港街アルム","order":2,"parentId":1,"scrollX":1227,"scrollY":1201},
+{"id":4,"expanded":false,"name":"2F","order":4,"parentId":3,"scrollX":948,"scrollY":1038},
+{"id":5,"expanded":false,"name":"1F","order":3,"parentId":3,"scrollX":876,"scrollY":823},
+{"id":6,"expanded":false,"name":"草原","order":10,"parentId":1,"scrollX":1249,"scrollY":8680},
+{"id":7,"expanded":true,"name":"瞑想","order":6,"parentId":3,"scrollX":948,"scrollY":1005},
+{"id":8,"expanded":false,"name":"草原　夕","order":11,"parentId":1,"scrollX":807,"scrollY":9095},
+{"id":9,"expanded":false,"name":"月のお祭り","order":8,"parentId":3,"scrollX":1260,"scrollY":915},
+{"id":10,"expanded":false,"name":"草原　荒野","order":12,"parentId":1,"scrollX":524,"scrollY":1257},
+{"id":11,"expanded":false,"name":"瞑想　２周目","order":7,"parentId":3,"scrollX":946,"scrollY":1005},
+{"id":12,"expanded":false,"name":"えんちゃんと・えふたる","order":13,"parentId":1,"scrollX":2307,"scrollY":2258},
+{"id":13,"expanded":false,"name":"洗礼の活火山","order":14,"parentId":1,"scrollX":1551,"scrollY":6427},
+{"id":14,"expanded":false,"name":"あしべる宅","order":9,"parentId":3,"scrollX":1136,"scrollY":1102}
+]
